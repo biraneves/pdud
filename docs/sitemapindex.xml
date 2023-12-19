@@ -6,16 +6,40 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
+  <loc>https://biraneves.github.io/pdud/categories/bioinformatica.xml</loc>
+  <lastmod>2023-12-19T22:43:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://biraneves.github.io/pdud/categories/cat_bioinformatica.xml</loc>
+  <lastmod>2023-12-19T22:43:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://biraneves.github.io/pdud/en/categories/bioinformatica.xml</loc>
+  <lastmod>2023-12-19T22:43:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://biraneves.github.io/pdud/en/categories/cat_bioinformatica.xml</loc>
+  <lastmod>2023-12-19T22:43:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://biraneves.github.io/pdud/en/galleries/rss.xml</loc>
   <lastmod>2023-12-19T21:30:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://biraneves.github.io/pdud/en/rss.xml</loc>
-  <lastmod>2023-12-19T21:30:00Z</lastmod>
+  <lastmod>2023-12-19T22:43:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://biraneves.github.io/pdud/galleries/rss.xml</loc>
   <lastmod>2023-12-19T21:30:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://biraneves.github.io/pdud/it/categories/bioinformatica.xml</loc>
+  <lastmod>2023-12-19T22:43:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://biraneves.github.io/pdud/it/categories/cat_bioinformatica.xml</loc>
+  <lastmod>2023-12-19T22:43:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://biraneves.github.io/pdud/it/galleries/rss.xml</loc>
@@ -23,14 +47,14 @@
  </sitemap>
  <sitemap>
   <loc>https://biraneves.github.io/pdud/it/rss.xml</loc>
-  <lastmod>2023-12-19T21:30:00Z</lastmod>
+  <lastmod>2023-12-19T22:43:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://biraneves.github.io/pdud/rss.xml</loc>
-  <lastmod>2023-12-19T21:30:00Z</lastmod>
+  <lastmod>2023-12-19T22:43:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://biraneves.github.io/pdud/sitemap.xml</loc>
-  <lastmod>2023-12-19T21:30:00Z</lastmod>
+  <lastmod>2023-12-19T22:43:00Z</lastmod>
  </sitemap>
 </sitemapindex>
