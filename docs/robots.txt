@@ -1,0 +1,4 @@
+Sitemap: https://biraneves.github.io/pdud/sitemapindex.xml
+
+User-Agent: *
+Host: biraneves.github.io
