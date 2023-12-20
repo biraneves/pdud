@@ -1,0 +1,56 @@
+#+BEGIN_COMMENT
+.. title: Introdução à Bioinformática: como a computação está revolucionando a biologia
+.. slug: introducao-a-bioinformatica-como-a-computacao-esta-revolucionando-a-biologia
+.. date: 2023-12-19 23:30:34 UTC+01:00
+.. tags: bioinformatica
+.. category: Bioinformática
+.. link: 
+.. description: 
+.. type: text
+
+#+END_COMMENT
+
+
+Em um mundo cada vez mais digital, é impressionante ver como a computação tem impactado diferentes áreas da vida e do conhecimento.
+Na minha opinião, uma das áreas mais fascinantes dessa interseção é a *bioinformática*. Se você já se perguntou como a computação
+e a biologia podem trabalhar juntas na resolução de problemas complexos, este artigo é para você.
+
+* O que é bioinformática?
+Em interpretação livre, bioinformática é a aplicação de técnicas computacionais para a compreensão e a organização de informações
+biológicas. Aqui, a matemática, a estatística e a ciência da computação unem-se para analisar e interpretar dados biológicos, como
+sequências de DNA, estruturas de proteínas e vias metabólicas.
+
+* Como tudo começou?
+A bioinformática não é, exatamente, uma novidade. O termo foi cunhado nos anos 1970, mas ganhou tração na década de 1990 com o
+*Projeto Genoma Humano* (na ocasião, eu cursava minha graduação em ciências biológicas). Esse projeto colossal necessitava de um
+poder inédito de processamento de dados para mapear e entender todo o genoma humano! Foi aí que a bioinformática mostrou-se
+indispensável.
+
+* Aplicações práticas
+
+** Pesquisa médica
+A bioinformática tem um papel crucial na *medicina personalizada*. Com a análise de genomas individuais, é possível prever a
+susceptibilidade a certas doenças e até mesmo adaptar tratamentos.
+
+** Agricultura
+Na agricultura, a bioinformática ajuda na criação de culturas mais resistentes e produtivas, interpretando o genoma de diferentes
+espécies de plantas.
+
+** Conservação
+A bioinformática também é aplicada na conservação de espécies, ajudando a entender a genética de populações em risco e orientando
+esforços de conservação.
+
+* Desafios e oportunidades
+Como qualquer campo emergente, a bioinformática enfrenta desafios, como a integração de dados de diversas fontes e a necessidade
+de algoritmos cada vez mais eficientes. No entanto, as oportunidades são vastas e o impacto potencial na sociedade é imenso.
+
+* Conclusão
+A bioinformática é um campo emocionante que está na fronteira de várias disciplinas. O poder da computação está moldando o futuro da biologia
+e as possibilidades são praticamente infinitas. Se você é como eu, apaixonado por biologia e computação, não há momento melhor para começar
+a explorar este campo.
+
+---
+
+Este é o primeiro /post/ deste /blog/. Meu objetivo aqui é registrar o que estou estudando, os conhecimentos que vou adquirindo e as descobertas
+que vão cruzando o meu caminho. O foco será bioinformática, mas devo navegar também por áreas de suporte, como a ciência de dados, a
+estatística e a ciência da computação. Espero ter você como leitora ou leitor frequente, e encontramo-nos no próximo /post/!
