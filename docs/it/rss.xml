@@ -1,85 +1,84 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pensamentos de um Dinossauro</title><link>https://biraneves.github.io/pdud/</link><description>Reflexões e descobertas de um Dev 50+</description><atom:link href="https://biraneves.github.io/pdud/it/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>it</language><copyright>Contents © 2023 &lt;a href="mailto:biraneves@gmail.com"&gt;Ubirajara Neves&lt;/a&gt; </copyright><lastBuildDate>Tue, 19 Dec 2023 22:43:31 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Introdução à Bioinformática: como a computação está revolucionando a biologia</title><link>https://biraneves.github.io/pdud/it/posts/introducao-a-bioinformatica-como-a-computacao-esta-revolucionando-a-biologia/</link><dc:creator>Ubirajara Neves</dc:creator><description>&lt;p&gt;
-Em um mundo cada vez mais digital, é impressionante ver como a computação tem impactado diferentes áreas da vida e do conhecimento.
-Na minha opinião, uma das áreas mais fascinantes dessa interseção é a &lt;b&gt;bioinformática&lt;/b&gt;. Se você já se perguntou como a computação
-e a biologia podem trabalhar juntas na resolução de problemas complexos, este artigo é para você.
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pensamentos de um Dinossauro</title><link>https://biraneves.github.io/pdud/</link><description>Reflexões e descobertas de um Dev 50+</description><atom:link href="https://biraneves.github.io/pdud/it/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>it</language><copyright>Contents © 2023 &lt;a href="mailto:biraneves@gmail.com"&gt;Ubirajara Neves&lt;/a&gt; </copyright><lastBuildDate>Wed, 20 Dec 2023 10:36:34 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Introduzione alla bioinformatica: come l'informatica sta rivoluzionando la biologia</title><link>https://biraneves.github.io/pdud/it/posts/introducao-a-bioinformatica-como-a-computacao-esta-revolucionando-a-biologia/</link><dc:creator>Ubirajara Neves</dc:creator><description>&lt;p&gt;
+In un mondo sempre più digitale, è impressionante vedere come l'informatica abbia avuto un impatto su diverse aree della vita e della
+conoscenza. A mio parere, una delle aree più affascinanti di questa intersezione è la bioinformatica. Se ti sei mai chiesto come
+l'informatica e la biologia possano lavorare insieme per risolvere problemi complessi, questo articolo è per te.
 &lt;/p&gt;
 
-&lt;div id="outline-container-orgc3ac9bd" class="outline-2"&gt;
-&lt;h2 id="orgc3ac9bd"&gt;O que é bioinformática?&lt;/h2&gt;
-&lt;div class="outline-text-2" id="text-orgc3ac9bd"&gt;
+&lt;div id="outline-container-org45c5c86" class="outline-2"&gt;
+&lt;h2 id="org45c5c86"&gt;Cos'è la bioinformatica?&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-org45c5c86"&gt;
 &lt;p&gt;
-Em interpretação livre, bioinformática é a aplicação de técnicas computacionais para a compreensão e a organização de informações
-biológicas. Aqui, a matemática, a estatística e a ciência da computação unem-se para analisar e interpretar dados biológicos, como
-sequências de DNA, estruturas de proteínas e vias metabólicas.
-&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div id="outline-container-org36f7b46" class="outline-2"&gt;
-&lt;h2 id="org36f7b46"&gt;Como tudo começou?&lt;/h2&gt;
-&lt;div class="outline-text-2" id="text-org36f7b46"&gt;
-&lt;p&gt;
-A bioinformática não é, exatamente, uma novidade. O termo foi cunhado nos anos 1970, mas ganhou tração na década de 1990 com o
-&lt;b&gt;Projeto Genoma Humano&lt;/b&gt; (na ocasião, eu cursava minha graduação em ciências biológicas). Esse projeto colossal necessitava de um
-poder inédito de processamento de dados para mapear e entender todo o genoma humano! Foi aí que a bioinformática mostrou-se
-indispensável.
+In breve, la bioinformatica è l'applicazione di tecniche computazionali alla comprensione e all'organizzazione delle informazioni
+biologiche. Qui, la matematica, la statistica e l'informatica si uniscono per analizzare e interpretare dati biologici come
+sequenze di DNA, strutture proteiche e vie metaboliche.
 &lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div id="outline-container-org7b65055" class="outline-2"&gt;
-&lt;h2 id="org7b65055"&gt;Aplicações práticas&lt;/h2&gt;
-&lt;div class="outline-text-2" id="text-org7b65055"&gt;
-&lt;/div&gt;
-&lt;div id="outline-container-orgf6dc8b4" class="outline-3"&gt;
-&lt;h3 id="orgf6dc8b4"&gt;Pesquisa médica&lt;/h3&gt;
-&lt;div class="outline-text-3" id="text-orgf6dc8b4"&gt;
+&lt;div id="outline-container-org2fdb78a" class="outline-2"&gt;
+&lt;h2 id="org2fdb78a"&gt;Come è iniziata tutto?&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-org2fdb78a"&gt;
 &lt;p&gt;
-A bioinformática tem um papel crucial na &lt;b&gt;medicina personalizada&lt;/b&gt;. Com a análise de genomas individuais, é possível prever a
-susceptibilidade a certas doenças e até mesmo adaptar tratamentos.
+La bioinformatica non è esattamente una novità. Il termine è stato coniato negli anni '70, ma ha acquisito trazione negli anni '90
+con il Projetto genoma umano (all'epoca stavo frequentando la mia laurea in scienze biologiche). Questo progetto colossale necessitava
+di un potere di elaborazione dei dati senza precedenti per mappare e comprendere l'intero genoma umano! Fu allora che la bioinformatica
+si rivelò indispensabile.
 &lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div id="outline-container-orge6754f0" class="outline-3"&gt;
-&lt;h3 id="orge6754f0"&gt;Agricultura&lt;/h3&gt;
-&lt;div class="outline-text-3" id="text-orge6754f0"&gt;
+&lt;div id="outline-container-org658e8c6" class="outline-2"&gt;
+&lt;h2 id="org658e8c6"&gt;Applicazioni pratiche&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-org658e8c6"&gt;
+&lt;/div&gt;
+&lt;div id="outline-container-orgd769e6a" class="outline-3"&gt;
+&lt;h3 id="orgd769e6a"&gt;Ricerca medica&lt;/h3&gt;
+&lt;div class="outline-text-3" id="text-orgd769e6a"&gt;
 &lt;p&gt;
-Na agricultura, a bioinformática ajuda na criação de culturas mais resistentes e produtivas, interpretando o genoma de diferentes
-espécies de plantas.
+La bioinformatica svolge un ruolo cruciale nella medicina personalizzata. Analizzando i genomi individuali, è possibile prevedere
+la suscettibilità a determinate malattie e persino adattare i trattamenti.
 &lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div id="outline-container-orga36f8c4" class="outline-3"&gt;
-&lt;h3 id="orga36f8c4"&gt;Conservação&lt;/h3&gt;
-&lt;div class="outline-text-3" id="text-orga36f8c4"&gt;
+&lt;div id="outline-container-org6452a6d" class="outline-3"&gt;
+&lt;h3 id="org6452a6d"&gt;Agricoltura&lt;/h3&gt;
+&lt;div class="outline-text-3" id="text-org6452a6d"&gt;
 &lt;p&gt;
-A bioinformática também é aplicada na conservação de espécies, ajudando a entender a genética de populações em risco e orientando
-esforços de conservação.
+In agricoltura, la bioinformatica aiuta a creare colture più resistenti e produttive, interpretando il genoma di diverse specie vegetali.
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id="outline-container-org90296dd" class="outline-3"&gt;
+&lt;h3 id="org90296dd"&gt;Conservazione&lt;/h3&gt;
+&lt;div class="outline-text-3" id="text-org90296dd"&gt;
+&lt;p&gt;
+La bioinformatica viene applicata anche alla conservazione delle specie, aiutando a comprendere la genetica delle popolazioni a rischio
+e orientando gli sforzi di conservazione.
 &lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div id="outline-container-orgd8a6a49" class="outline-2"&gt;
-&lt;h2 id="orgd8a6a49"&gt;Desafios e oportunidades&lt;/h2&gt;
-&lt;div class="outline-text-2" id="text-orgd8a6a49"&gt;
+&lt;div id="outline-container-org5138182" class="outline-2"&gt;
+&lt;h2 id="org5138182"&gt;Sfide e oppotunità&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-org5138182"&gt;
 &lt;p&gt;
-Como qualquer campo emergente, a bioinformática enfrenta desafios, como a integração de dados de diversas fontes e a necessidade
-de algoritmos cada vez mais eficientes. No entanto, as oportunidades são vastas e o impacto potencial na sociedade é imenso.
+Come qualsiasi campo emergente, la bioinformatica deve affrontare sfide, come l'integrazione di dati da diverse fonti e la necessità
+di algoritmi sempre più efficienti. Tuttavia, le opportunità sono vaste e l'impatto potenziale sulla società è immenso.
 &lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div id="outline-container-org5a0778f" class="outline-2"&gt;
-&lt;h2 id="org5a0778f"&gt;Conclusão&lt;/h2&gt;
-&lt;div class="outline-text-2" id="text-org5a0778f"&gt;
+&lt;div id="outline-container-org01af05a" class="outline-2"&gt;
+&lt;h2 id="org01af05a"&gt;Concluzione&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-org01af05a"&gt;
 &lt;p&gt;
-A bioinformática é um campo emocionante que está na fronteira de várias disciplinas. O poder da computação está moldando o futuro da biologia
-e as possibilidades são praticamente infinitas. Se você é como eu, apaixonado por biologia e computação, não há momento melhor para começar
-a explorar este campo.
+La bioinformatica è un campo entusiasmante che si trova all'intersezione di diverse discipline. Il potere dell'informatica sta plasmando
+il futuro della biologia e le possibilità sono praticamente infinite. Se sei come me, appassionato di biologia e informatica, non c'è
+momento migliore per iniziare a esplorare questo campo.
 &lt;/p&gt;
 
 &lt;p&gt;
@@ -87,9 +86,10 @@ a explorar este campo.
 &lt;/p&gt;
 
 &lt;p&gt;
-Este é o primeiro &lt;i&gt;post&lt;/i&gt; deste &lt;i&gt;blog&lt;/i&gt;. Meu objetivo aqui é registrar o que estou estudando, os conhecimentos que vou adquirindo e as descobertas
-que vão cruzando o meu caminho. O foco será bioinformática, mas devo navegar também por áreas de suporte, como a ciência de dados, a
-estatística e a ciência da computação. Espero ter você como leitora ou leitor frequente, e encontramo-nos no próximo &lt;i&gt;post&lt;/i&gt;!
+Questo è il primo post di questo blog. Il mio obiettivo qui è registrare ciò che sto studiando, le conoscenze che sto acquisendo e le
+scoperte che stanno attraversando il mio cammino. Il focus sarà sulla bioinformatica, ma dovrò navigare anche attraverso aree di supporto,
+come la scienza dei dati, la statistica e l'informatica. Spero di averti como lettore o lettrice frequente, e ci ritroveremo nel
+prossimo post!
 &lt;/p&gt;
 &lt;/div&gt;
-&lt;/div&gt;</description><guid>https://biraneves.github.io/pdud/it/posts/introducao-a-bioinformatica-como-a-computacao-esta-revolucionando-a-biologia/</guid><pubDate>Tue, 19 Dec 2023 22:30:34 GMT</pubDate></item></channel></rss>
+&lt;/div&gt;</description><category>bioinformatica</category><guid>https://biraneves.github.io/pdud/it/posts/introducao-a-bioinformatica-como-a-computacao-esta-revolucionando-a-biologia/</guid><pubDate>Tue, 19 Dec 2023 22:30:34 GMT</pubDate></item></channel></rss>
