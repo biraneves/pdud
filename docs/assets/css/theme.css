@@ -211,6 +211,7 @@ html[dir="rtl"] .archivenav .pager .previous {
 #brand {
 	font-size: 3em;
 	line-height: 1;
+    text-align: center;
 }
 
 /* Links */
